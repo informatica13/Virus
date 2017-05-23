@@ -15,5 +15,10 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+     int test;
+     int test2;
+     test = 1;
+     test2 = 2;
+      System.out.println(test+test2);
     }
 }
